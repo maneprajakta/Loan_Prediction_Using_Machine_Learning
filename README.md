@@ -4,7 +4,7 @@
 The idea  is to build a model that will predict the loan approval of an applicant who has applied for a loan . It is based on the user’s marital status, education, number of dependents, and employments. We can build a linear model for this project.
 
 <h2>Dataset Features</h2>
-<br>Dataset is taken from <link href="https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset">here!</link>
+<br>Dataset is taken from [here!](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset)
 <br><br>.The following are dataset feature same in train and test set only test set not contain Loan_Status we need to predict it :
 
 <br>1.Loan_ID                           :	Unique Loan ID
