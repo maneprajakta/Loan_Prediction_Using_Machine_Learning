@@ -32,7 +32,7 @@ Is to predict whether the applicant will have loan approved or not.So,we have to
 
 <h1>What the book conatins ?</h1>
 <ul>
-  <li>EDA(Data Visualization + facts we get by visualisation)</li>
+  <li>EDA(Data Visualization + facts we get by visualization)</li>
   <li>Data Cleaning</li>
   <li>Model Building(Logistic Regression)</li>
 </ul>
