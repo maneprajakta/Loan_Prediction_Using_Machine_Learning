@@ -30,7 +30,7 @@ Is to predict whether the applicant will have loan approved or not.So,we have to
   <li>XGBoost</li>
 </ul>
 
-<h1>What the book conatins ?</h1>
+<h1>What the book contains ?</h1>
 <ul>
   <li>EDA(Data Visualization + facts we get by visualization)</li>
   <li>Data Cleaning</li>
